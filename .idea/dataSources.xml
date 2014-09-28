@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="747499610">
+    <data-source source="LOCAL" name="Rails User Authentication: development" uuid="99e13f76-f293-49be-a8ac-c88187830280">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:User_Authentication_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails User Authentication: test" uuid="90a59810-3c1f-475e-adaf-a3ae272dedd4">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:User_Authentication_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails User Authentication: production" uuid="ed898577-54c8-4640-975e-d9cf66c153d1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:User_Authentication_production</jdbc-url>
+      <user-name>mile</user-name>
+      <user-password>dfc1dfc5dfc9dfcbdfc4dfc3</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
